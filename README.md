@@ -18,3 +18,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
+
+### :man_technologist: About Me :
+
+I am a Ruby developer 💎.
+
+- 💻 I’m working as a Software Engineer and contributing to backend for building web applications.
+
+- 🧪 Writing tests for my current application.
+
+- 📝 Write technical documentation.
+
+- :zap: In my free time, I write my pet projects and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mikhail-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mikhail-agronik)
