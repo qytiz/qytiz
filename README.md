@@ -32,4 +32,4 @@ I am a Ruby developer 💎.
 
 - :zap: In my free time, I write my pet projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mikhail-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mikhail-agronik)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mikhail-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mikhail-agronik)
